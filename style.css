@@ -1,0 +1,40 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: #1E1F20;
+    margin-top: 5rem;
+}
+
+main {
+    width: 1060px;
+    margin: 0 auto;
+    background: #fff;
+}
+
+.card {
+    background: tomato;
+    height: 340px;
+    float: left;
+    margin: 10px;
+}
+
+.third {
+    width: 340px;
+}
+
+.half {
+    width: 510px;
+}
+
+.two-third {
+    width: 680px;
+}
+
+.full {
+    width: 1040px;
+}
+
